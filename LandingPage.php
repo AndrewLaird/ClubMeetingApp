@@ -4,5 +4,5 @@
 <div id = "title">This is just a start</div>
 
 <?php
-	echo("Hello World");
+	echo("Test Change");
 ?>
