@@ -2,7 +2,7 @@
 <head>
 	<link rel = 'stylesheet' href='LandingPage.css'>
 </head>
-<div id = "title">This is just a start
+<div id = "title">Changed by brandon
 
 <?php
 echo "Hello World"
